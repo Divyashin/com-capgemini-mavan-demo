@@ -1,8 +1,9 @@
 package com.cg.mavan.comp;
 
 import java.util.ArrayList;
+
 import java.util.Collections;
-import java.util.List;
+//import java.util.List;
 
 public class ComparableDemo {
 	public static void main(String[] args) {
